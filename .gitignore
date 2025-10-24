@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Output folder for recordings
+output/
+
+# IDE / Editor specific
+.vscode/
+.idea/
